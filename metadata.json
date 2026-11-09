@@ -1,0 +1,6 @@
+{
+  "name": "Mapa Base Turbo",
+  "description": "Calculadora de mapa base de injeção eletrônica para calibração de tempo de injeção por MAP e TPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
